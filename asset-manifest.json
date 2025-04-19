@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cake-sit-23/static/css/main.a04e3d36.css",
-    "main.js": "/cake-sit-23/static/js/main.bbd54b6d.js",
+    "main.js": "/cake-sit-23/static/js/main.f64871e0.js",
     "static/js/453.d13b3b08.chunk.js": "/cake-sit-23/static/js/453.d13b3b08.chunk.js",
     "static/media/hero.jpg": "/cake-sit-23/static/media/hero.1f3d677412e70cf16d6b.jpg",
     "static/media/offer.jpg": "/cake-sit-23/static/media/offer.277d0d07a9a3f0df8b31.jpg",
@@ -14,11 +14,11 @@
     "static/media/team-2.jpg": "/cake-sit-23/static/media/team-2.b6f1d324b0357d9dfc5a.jpg",
     "index.html": "/cake-sit-23/index.html",
     "main.a04e3d36.css.map": "/cake-sit-23/static/css/main.a04e3d36.css.map",
-    "main.bbd54b6d.js.map": "/cake-sit-23/static/js/main.bbd54b6d.js.map",
+    "main.f64871e0.js.map": "/cake-sit-23/static/js/main.f64871e0.js.map",
     "453.d13b3b08.chunk.js.map": "/cake-sit-23/static/js/453.d13b3b08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a04e3d36.css",
-    "static/js/main.bbd54b6d.js"
+    "static/js/main.f64871e0.js"
   ]
 }
