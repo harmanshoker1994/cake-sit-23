@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cake-sit-23/static/css/main.a04e3d36.css",
+    "main.js": "/cake-sit-23/static/js/main.0094be3e.js",
+    "static/js/453.d13b3b08.chunk.js": "/cake-sit-23/static/js/453.d13b3b08.chunk.js",
+    "static/media/hero.jpg": "/cake-sit-23/static/media/hero.1f3d677412e70cf16d6b.jpg",
+    "static/media/offer.jpg": "/cake-sit-23/static/media/offer.277d0d07a9a3f0df8b31.jpg",
+    "static/media/service.jpg": "/cake-sit-23/static/media/service.100ba6da75c40df4fae6.jpg",
+    "static/media/about.jpg": "/cake-sit-23/static/media/about.cff1e3da1f7be51e9820.jpg",
+    "static/media/logo.jpg": "/cake-sit-23/static/media/logo.f957e95b08bdaaf69747.jpg",
+    "static/media/team-3.jpg": "/cake-sit-23/static/media/team-3.d7ee919f942fd21690fd.jpg",
+    "static/media/bg.jpg": "/cake-sit-23/static/media/bg.23fd31ca827539b60d74.jpg",
+    "static/media/team-1.jpg": "/cake-sit-23/static/media/team-1.e1290582d49608cdf97b.jpg",
+    "static/media/team-2.jpg": "/cake-sit-23/static/media/team-2.b6f1d324b0357d9dfc5a.jpg",
+    "index.html": "/cake-sit-23/index.html",
+    "main.a04e3d36.css.map": "/cake-sit-23/static/css/main.a04e3d36.css.map",
+    "main.0094be3e.js.map": "/cake-sit-23/static/js/main.0094be3e.js.map",
+    "453.d13b3b08.chunk.js.map": "/cake-sit-23/static/js/453.d13b3b08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a04e3d36.css",
+    "static/js/main.0094be3e.js"
+  ]
+}
